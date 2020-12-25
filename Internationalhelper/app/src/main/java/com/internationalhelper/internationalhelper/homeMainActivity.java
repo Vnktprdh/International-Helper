@@ -37,6 +37,11 @@ public class homeMainActivity extends AppCompatActivity implements NavigationVie
         setContentView(R.layout.activity_home_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+
+    // This is my test commit
+
+
 //        FloatingActionButton fab = findViewById(R.id.fab);
 //        fab.setOnClickListener(new View.OnClickListener() {
 //            @Override
